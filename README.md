@@ -22,9 +22,9 @@
       <br>
       <b>AI Student</b> (Class of 2026)<br><br>
      · Currently studying IA engineering and learning Python. <br><br>
-     · Always learning, always building.. <br><br>
+     · Always learning, always building... <br><br>
     I am passionate about order, minimalism, and continuous progress. 
-    I am currently focusing on learning as much as possible so that I can later launch my own projects to automate processes within a sector I am closely connected to. <br><br>
+    Currently learning Python and Git fundamentals through CS50P, with the goal of building my first real project: something that automates a problem I deal with in my own daily life. <br><br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://postimg.cc/kDyjtkzm">
